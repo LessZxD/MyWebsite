@@ -1,6 +1,6 @@
 // Enter all your detials in this file
 // Logo images
-import logogradient from "./assets/Logo2Eko.png";
+import logogradient from "./assets/Logo2Eko-removebg-preview.png";
 import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/Profile.png";
