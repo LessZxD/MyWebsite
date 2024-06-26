@@ -2,7 +2,7 @@ import React from 'react';
 
 function Contact() {
   return (
-    <div className="relative flex h-[calc(100vh-80px)] flex-col justify-center overflow-hidden bg-white py-2 sm:py-4">
+    <div className="relative flex h-[calc(100vh-200px)] flex-col justify-center overflow-hidden bg-white py-2 sm:py-4">
       <div className="bg-white max-w-4xl mx-auto w-full h-auto shadow-lg">
         <div className="grid grid-cols-6 h-full">
           <div className="bg-white p-4 col-span-2">
