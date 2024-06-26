@@ -40,11 +40,11 @@ function Header() {
               Home
             </NavLink>
           </li>
-          {/* <li className="pb-1 md:pb-0">
+          <li className="pb-1 md:pb-0">
             <NavLink to="/about" onClick={toggleClass}>
               About
             </NavLink>
-          </li> */}
+          </li>
           <li className="pb-1 md:pb-0">
             <NavLink to="/technologies" onClick={toggleClass}>
               Technologies

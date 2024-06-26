@@ -10,14 +10,14 @@ import css from "./assets/techstack/css.png";
 import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
-import redux from "./assets/techstack/redux.png";
+// import redux from "./assets/techstack/redux.png";
 import tailwind from "./assets/techstack/tailwind.png";
 import bootstrap from "./assets/techstack/bootstrap.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
-import postman from "./assets/techstack/postman.png";
+// import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1eko.png";
@@ -94,12 +94,12 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
-  redux: redux,
-  sass: sass,
+  // redux: redux,
+  // sass: sass,
   tailwind: tailwind,
   bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
+  // postman: postman,
   npm: npm,
   git: git,
   github: github,
