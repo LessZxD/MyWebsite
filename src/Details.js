@@ -82,8 +82,8 @@ export const eduDetails = [
   {
     Position: "Student Exchange Program - Creative Media and Game Technologies",
     Company: `Saxion University of Applied Sciences`,
-    Location: "Bengaluru",
-    Type: "Full Time",
+    Location: "Enschede",
+    Type: "Exchange",
     Duration: "Feb 2024 - Jul 2024",
   },
 ];
